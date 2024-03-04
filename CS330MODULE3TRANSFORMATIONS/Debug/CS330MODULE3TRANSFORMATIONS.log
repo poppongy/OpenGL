@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(367,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(507,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(508,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(512,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(513,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(515,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(516,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(526,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(535,12): warning C4101: 'rotation1': unreferenced local variable
+C:\Users\Prince\Downloads\CS330\CS330MODULE3TRANSFORMATIONS\Source.cpp(536,12): warning C4101: 'rotation2': unreferenced local variable
+  CS330MODULE3TRANSFORMATIONS.vcxproj -> C:\Users\Prince\Downloads\CS-330-master\CS-330-master\Debug\CS330MODULE3TRANSFORMATIONS.exe
